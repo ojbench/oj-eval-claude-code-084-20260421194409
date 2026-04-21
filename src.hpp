@@ -3,6 +3,13 @@
 
 #include <string>
 #include <vector>
+#include <iostream>
+
+using std::string;
+using std::vector;
+using std::cin;
+using std::cout;
+using std::endl;
 
 struct Data {
     int key;
